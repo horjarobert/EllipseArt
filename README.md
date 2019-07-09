@@ -1,6 +1,6 @@
 --- Processing ... ellipse_art project ---
 
-# Demo #
+# <b><em>Fast</em></b> Demo #
 ![ellipse_art project in Processing](https://github.com/horjarobert/EllipseArt/blob/master/ellipse.gif)
 ***
 # 1.Intro #
