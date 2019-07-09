@@ -1,7 +1,7 @@
 --- Processing ... ellipse_art project ---
 
 # Demo #
-![ellipse_art project in Processing](https://github.com/horjarobert/Processing_Projects/blob/master/ellipse_art/ellipse_art/ellipse.gif)
+![ellipse_art project in Processing](https://github.com/horjarobert/EllipseArt/blob/master/ellipse.gif)
 ***
 # 1.Intro #
 
